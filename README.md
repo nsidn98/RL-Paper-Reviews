@@ -1,5 +1,5 @@
 # RL-Paper-Reviews
-One page review and summary of research papers in Reinforcement Learning
+One page summary/review of research papers read by me in Reinforcement Learning along with possible improvements which I could think of.
 
 
 
