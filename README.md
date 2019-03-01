@@ -13,3 +13,7 @@ One page summary/review of research papers read by me in Reinforcement Learning 
 * Writing paper summaries/reviews does help me in retaining the information in the paper and understanding it in a better way as it makes me think more about the paper which I would not have done by just reading the papers. 
 * It also helps me to think of possible extensions of the project by connecting information in the previously read papers and trying to combine the positives of all the papers.
 * Motivates me to read more papers.
+
+
+## Disclaimer:
+The paper review/summary contains ideas which I could think of when I read the paper. The ideas/extensions may or may not work. They are just to make me think more about the paper. I do not intend to insult or degrade any of the authors' work.
