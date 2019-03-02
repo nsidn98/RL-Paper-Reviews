@@ -1,5 +1,5 @@
 # RL-Paper-Reviews
-One page summary/review of research papers read by me in Reinforcement Learning along with possible improvements which I could think of.
+One-two page summary/review of research papers read by me in Reinforcement Learning along with possible improvements which I could think of.
 
 
 
@@ -8,6 +8,7 @@ One page summary/review of research papers read by me in Reinforcement Learning 
 | [Object Sensitive Deep Reinforcement Learning](https://arxiv.org/abs/1809.06064) | Y.Li, K.Sycara, R.Iyer | GCAI-17  | Carnegie Mellon University |
 | [Safe Reinforcement Learning with Model Uncertainty Estimates](https://arxiv.org/abs/1810.08700) | B.Lutjens, M.Everett, J.How      | ICRA-18 | Massachusetts Institute of Technology |
 |[Multi-stage Reinforcement Learning for Object Detection](https://arxiv.org/pdf/1810.10325.pdf)| J.Konig, S.Malberg, M.Martens, S.Niehaus, A.Grimberghe, A.Ramaswamy| CVC-19 | Paderborn University|
+| [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/pdf/1705.05363.pdf) | D.Pathak, P.Agrawal, A.Efros, T.Darrell | ICML-17 | University of California Berkeley |
 
 
 ## Reason for writing paper summaries/review:
