@@ -9,6 +9,7 @@ One-two page summary/review of research papers read by me in Reinforcement Learn
 | [Safe Reinforcement Learning with Model Uncertainty Estimates](https://arxiv.org/abs/1810.08700) | B.Lutjens, M.Everett, J.How      | ICRA-18 | Massachusetts Institute of Technology |
 |[Multi-stage Reinforcement Learning for Object Detection](https://arxiv.org/pdf/1810.10325.pdf)| J.Konig, S.Malberg, M.Martens, S.Niehaus, A.Grimberghe, A.Ramaswamy| CVC-19 | Paderborn University|
 | [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/pdf/1705.05363.pdf) | D.Pathak, P.Agrawal, A.Efros, T.Darrell | ICML-17 | University of California Berkeley |
+| [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/pdf/1802.03494.pdf) | Y.He, J.Lin, Z.Liu, H.Wang, L.Li, S.Han | ECCV-18 | Massachusetts Institute of Technology, Carnegie Mellon University |
 
 
 ## Reason for writing paper summaries/review:
